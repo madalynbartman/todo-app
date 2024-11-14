@@ -1,2 +1,2 @@
 # todo-app
-Todo app create with ReactJS
+Todo app created with ReactJS
